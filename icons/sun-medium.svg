@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg20"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs24" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="m 12,7 c -2.7495764,0 -5,2.2504236 -5,5 0,2.749576 2.2504236,5 5,5 2.749576,0 5,-2.250424 5,-5 0,-2.7495764 -2.250424,-5 -5,-5 z m 0,2 c 1.668697,0 3,1.331303 3,3 0,1.668697 -1.331303,3 -3,3 -1.668697,0 -3,-1.331303 -3,-3 0,-1.668697 1.331303,-3 3,-3 z"
+     id="circle2" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="m 12,2 a 1,1 0 0 0 -1,1 v 1 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 V 3 A 1,1 0 0 0 12,2 Z"
+     id="path4" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="m 12,19 a 1,1 0 0 0 -1,1 v 1 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 v -1 a 1,1 0 0 0 -1,-1 z"
+     id="path6" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="m 3,11 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 H 4 A 1,1 0 0 0 5,12 1,1 0 0 0 4,11 Z"
+     id="path8" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="m 20,11 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 1 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+     id="path10" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="M 18.363281,4.6367187 A 1,1 0 0 0 17.65625,4.9296875 l -0.707031,0.7070312 a 1,1 0 0 0 0,1.4140625 1,1 0 0 0 1.414062,0 L 19.070312,6.34375 a 1,1 0 0 0 0,-1.4140625 1,1 0 0 0 -0.707031,-0.2929688 z"
+     id="path12" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="M 6.34375,16.65625 A 1,1 0 0 0 5.6367187,16.949219 L 4.9296875,17.65625 a 1,1 0 0 0 0,1.414062 1,1 0 0 0 1.4140625,0 l 0.7070312,-0.707031 a 1,1 0 0 0 0,-1.414062 A 1,1 0 0 0 6.34375,16.65625 Z"
+     id="path14" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="m 5.6367187,4.6367187 a 1,1 0 0 0 -0.7070312,0.2929688 1,1 0 0 0 0,1.4140625 l 0.7070312,0.7070312 a 1,1 0 0 0 1.4140625,0 1,1 0 0 0 0,-1.4140625 L 6.34375,4.9296875 A 1,1 0 0 0 5.6367187,4.6367187 Z"
+     id="path16" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="m 16.949219,16.949219 a 1,1 0 0 0 0,1.414062 l 0.707031,0.707031 a 1,1 0 0 0 1.414062,0 1,1 0 0 0 0,-1.414062 l -0.707031,-0.707031 a 1,1 0 0 0 -1.414062,0 z"
+     id="path18" />
+</svg>

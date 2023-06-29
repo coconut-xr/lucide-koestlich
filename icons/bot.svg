@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg12"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="m 5,10 c -1.6447011,0 -3,1.355299 -3,3 v 6 c 0,1.644701 1.3552989,3 3,3 h 14 c 1.644701,0 3,-1.355299 3,-3 v -6 c 0,-1.644701 -1.355299,-3 -3,-3 z m 0,2 h 14 c 0.571297,0 1,0.428703 1,1 v 6 c 0,0.571297 -0.428703,1 -1,1 H 5 C 4.4287033,20 4,19.571297 4,19 v -6 c 0,-0.571297 0.4287033,-1 1,-1 z"
+     id="rect2" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="M 12,2 C 10.354992,2 9,3.354992 9,5 9,6.645008 10.354992,8 12,8 13.645008,8 15,6.645008 15,5 15,3.354992 13.645008,2 12,2 Z m 0,2 c 0.564129,0 1,0.4358712 1,1 0,0.5641288 -0.435871,1 -1,1 -0.564129,0 -1,-0.4358712 -1,-1 0,-0.5641288 0.435871,-1 1,-1 z"
+     id="circle4" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="m 12,6 a 1,1 0 0 0 -1,1 v 4 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 V 7 A 1,1 0 0 0 12,6 Z"
+     id="path6" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="M 8,15 A 1,1 0 0 0 7,16 1,1 0 0 0 8,17 1,1 0 0 0 9,16 1,1 0 0 0 8,15 Z"
+     id="line8" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="m 16,15 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+     id="line10" />
+</svg>

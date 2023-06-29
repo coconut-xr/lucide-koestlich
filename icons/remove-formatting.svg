@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg12"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="M 4,3 A 1.0001,1.0001 0 0 0 3,4 V 7 A 1,1 0 0 0 4,8 1,1 0 0 0 5,7 V 5 h 14 v 2 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 V 4 A 1.0001,1.0001 0 0 0 20,3 Z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="m 5,19 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 6 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+     id="path4" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="m 13.298828,3.0449219 a 1,1 0 0 0 -1.253906,0.65625 L 7.0449219,19.701172 a 1,1 0 0 0 0.65625,1.253906 1,1 0 0 0 1.2539062,-0.65625 L 13.955078,4.2988281 a 1,1 0 0 0 -0.65625,-1.2539062 z"
+     id="path6" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="m 15,14 a 1,1 0 0 0 -0.707031,0.292969 1,1 0 0 0 0,1.414062 l 5,5 a 1,1 0 0 0 1.414062,0 1,1 0 0 0 0,-1.414062 l -5,-5 A 1,1 0 0 0 15,14 Z"
+     id="path8" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="m 19.292969,14.292969 -5,5 a 1,1 0 0 0 0,1.414062 1,1 0 0 0 1.414062,0 l 5,-5 a 1,1 0 0 0 0,-1.414062 1,1 0 0 0 -1.414062,0 z"
+     id="path10" />
+</svg>

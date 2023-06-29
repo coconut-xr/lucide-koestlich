@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg12"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="m 14,6 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 2 c 0.564129,0 1,0.4358712 1,1 v 6 c 0,0.166667 -0.114166,0.450104 -0.332031,0.667969 C 16.450104,15.885834 16.166667,16 16,16 h -2 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 2 c 0.833332,0 1.549897,-0.385834 2.082031,-0.917969 C 18.614166,16.549897 19,15.833332 19,15 V 9 C 19,7.354992 17.645008,6 16,6 Z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="M 4,6 C 2.354992,6 1,7.354992 1,9 v 6 c 0,0.833333 0.3858344,1.549897 0.9179687,2.082031 C 2.4501031,17.614166 3.1666675,18 4,18 H 6 A 1,1 0 0 0 7,17 1,1 0 0 0 6,16 H 4 C 3.8333335,16 3.5498962,15.885834 3.3320313,15.667969 3.1141663,15.450104 3,15.166667 3,15 V 9 C 3,8.4358712 3.4358712,8 4,8 H 6 A 1,1 0 0 0 7,7 1,1 0 0 0 6,6 Z"
+     id="path4" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="m 22,10 a 1,1 0 0 0 -1,1 v 2 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 v -2 a 1,1 0 0 0 -1,-1 z"
+     id="line6" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="M 10,6 A 1,1 0 0 0 9,7 v 6 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 V 7 A 1,1 0 0 0 10,6 Z"
+     id="line8" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="m 10,16 a 1,1 0 0 0 -1,1 v 0.0098 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 V 17 a 1,1 0 0 0 -1,-1 z"
+     id="line10" />
+</svg>

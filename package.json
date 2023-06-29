@@ -1,0 +1,32 @@
+{
+  "name": "lucide-koestlich",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "convert": "ts-node --esm ./convert.ts",
+    "generate": "ts-node --esm ./generate.ts",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Pascal Zinke",
+  "license": "ISC",
+  "devDependencies": {
+    "@coconut-xr/koestlich": "^0.1.0",
+    "@types/node": "^20.3.2",
+    "@types/prettier": "^2.7.3",
+    "lucide-static": "^0.256.0",
+    "prettier": "^2.8.8",
+    "react": "^18.2.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  },
+  "peerDependencies": {
+    "@coconut-xr/koestlich": "^0.1.0",
+    "react": "^18.2.0"
+  },
+  "dependencies": {
+    "@types/react": "^18.2.14"
+  }
+}

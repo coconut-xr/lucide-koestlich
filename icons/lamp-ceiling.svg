@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg8"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="m 12,1 a 1,1 0 0 0 -1,1 v 5 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 V 2 A 1,1 0 0 0 12,1 Z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="M 6,6 A 1.0001,1.0001 0 0 0 5.0859375,6.59375 l -4,9 A 1.0001,1.0001 0 0 0 2,17 h 20 a 1.0001,1.0001 0 0 0 0.914062,-1.40625 l -4,-9 A 1.0001,1.0001 0 0 0 18,6 Z M 6.6503906,8 H 17.349609 l 3.111328,7 H 3.5390625 Z"
+     id="path4" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="M 9.5019531,15.056641 A 1,1 0 0 0 8.2265625,15.667969 C 7.321491,18.240796 9.2726405,20.996094 12,20.996094 c 2.72736,0 4.678509,-2.755298 3.773438,-5.328125 a 1,1 0 0 0 -1.275391,-0.611328 1,1 0 0 0 -0.611328,1.27539 c 0.46782,1.329864 -0.476983,2.664063 -1.886719,2.664063 -1.409736,0 -2.3545394,-1.334199 -1.886719,-2.664063 a 1,1 0 0 0 -0.6113279,-1.27539 z"
+     id="path6" />
+</svg>

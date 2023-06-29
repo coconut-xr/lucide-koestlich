@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg8"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="M 15,9 A 1,1 0 0 0 14.292969,9.2929688 L 11,12.585938 9.7070313,11.292969 a 1,1 0 0 0 -1.4140625,0 1,1 0 0 0 0,1.414062 l 2.0000002,2 a 1.0001,1.0001 0 0 0 1.414062,0 l 4,-4 a 1,1 0 0 0 0,-1.4140622 A 1,1 0 0 0 15,9 Z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="M 7,4 C 5.3545471,4 4,5.3545471 4,7 v 12 a 1.0001,1.0001 0 0 0 1,1 h 14 a 1.0001,1.0001 0 0 0 1,-1 V 7 C 20,5.354992 18.645008,4 17,4 Z m 0,2 h 10 c 0.564129,0 1,0.4358712 1,1 V 18 H 6 V 7 C 6,6.4454551 6.4454551,6 7,6 Z"
+     id="path4" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="m 2,18 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 20 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+     id="path6" />
+</svg>

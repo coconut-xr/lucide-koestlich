@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg8"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="M 10,8 A 1,1 0 0 0 9,9 v 6 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 V 9 A 1,1 0 0 0 10,8 Z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="m 14,8 a 1,1 0 0 0 -1,1 v 6 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 V 9 A 1,1 0 0 0 14,8 Z"
+     id="path4" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="M 7.7148437,1 A 1.0001,1.0001 0 0 0 7.0078125,1.2929687 L 1.2929687,7.0078125 A 1.0001,1.0001 0 0 0 1,7.7148437 v 8.5703123 a 1.0001,1.0001 0 0 0 0.2929687,0.707031 l 5.7148438,5.714844 A 1.0001,1.0001 0 0 0 7.7148437,23 h 8.5703123 a 1.0001,1.0001 0 0 0 0.707031,-0.292969 l 5.714844,-5.714844 A 1.0001,1.0001 0 0 0 23,16.285156 V 7.7148437 A 1.0001,1.0001 0 0 0 22.707031,7.0078125 L 16.992187,1.2929687 A 1.0001,1.0001 0 0 0 16.285156,1 Z M 8.1289063,3 H 15.871094 L 21,8.1289063 V 15.871094 L 15.871094,21 H 8.1289063 L 3,15.871094 V 8.1289063 Z"
+     id="path6" />
+</svg>

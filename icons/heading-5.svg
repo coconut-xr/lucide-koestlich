@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg12"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="m 4,11 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 8 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+     id="path2" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="M 4,5 A 1,1 0 0 0 3,6 v 12 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 V 6 A 1,1 0 0 0 4,5 Z"
+     id="path4" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="m 12,5 a 1,1 0 0 0 -1,1 v 12 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 V 6 A 1,1 0 0 0 12,5 Z"
+     id="path6" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="m 17,9 a 1.0001,1.0001 0 0 0 -1,1 v 3 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 v -2 h 3 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+     id="path8" />
+  <path
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="m 17,12 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 1.300781 C 19.311891,14 20,14.671429 20,15.5 c 0,0.828571 -0.688109,1.5 -1.699219,1.5 -0.366666,0 -0.572773,-0.05494 -0.853515,-0.195313 a 1,1 0 0 0 -1.341797,0.447266 1,1 0 0 0 0.447265,1.341797 C 17.071991,18.853378 17.667449,19 18.300781,19 20.289668,19 22,17.471427 22,15.5 22,13.528573 20.289668,12 18.300781,12 Z"
+     id="path10" />
+</svg>
