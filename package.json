@@ -1,9 +1,16 @@
 {
   "name": "@coconut-xr/lucide-koestlich",
-  "version": "0.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "Lucide icons for Koestlich",
+  "main": "dist/index.js",
   "type": "module",
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coconut-xr/lucide-koestlich.git"
+  },
   "scripts": {
     "convert": "ts-node --esm ./convert.ts",
     "generate": "ts-node --esm ./generate.ts",
@@ -15,9 +22,14 @@
     "fix:prettier": "prettier --write src/**/*.tsx",
     "fix:eslint": "eslint src --fix"
   },
-  "keywords": [],
+  "keywords": [
+    "lucide",
+    "koestlich",
+    "icons",
+    "3d"
+  ],
   "author": "Pascal Zinke",
-  "license": "ISC",
+  "license": "SEE LICENSE IN LICENSE",
   "devDependencies": {
     "@coconut-xr/koestlich": "^0.1.0",
     "@types/node": "^20.3.2",
@@ -34,13 +46,11 @@
     "prettier": "^2.8.8",
     "react": "^18.2.0",
     "ts-node": "^10.9.1",
-    "typescript": "^5.1.6"
+    "typescript": "^5.1.6",
+    "@types/react": "^18.2.14"
   },
   "peerDependencies": {
-    "@coconut-xr/koestlich": "^0.1.0",
-    "react": "^18.2.0"
-  },
-  "dependencies": {
-    "@types/react": "^18.2.14"
+    "@coconut-xr/koestlich": "*",
+    "react": "*"
   }
 }
