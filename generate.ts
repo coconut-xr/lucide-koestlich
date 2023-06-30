@@ -14,7 +14,7 @@ async function main() {
       import { SVGFromText } from "@coconut-xr/koestlich";
       import React, { ComponentPropsWithoutRef } from "react"; 
       export type ${name}Props = Omit<ComponentPropsWithoutRef<typeof SVGFromText>, "text">;
-      export default function ${name}(props: ${name}Props) {
+      export function ${name}(props: ${name}Props) {
         return <SVGFromText {...props} text={\`${svg}\`} />
       }
     `;
