@@ -9,30 +9,26 @@ async function main() {
     const name = getName(icon);
     const raw = await readFile(`${baseDir}${icon}`);
     const svg = raw.toString();
-    const code = format(`
+    const code = `
+      /* eslint-disable no-shadow-restricted-names */
       import { SVGFromText } from "@coconut-xr/koestlich";
-      import { ComponentPropsWithoutRef } from "react"; 
+      import React, { ComponentPropsWithoutRef } from "react"; 
       export type ${name}Props = Omit<ComponentPropsWithoutRef<typeof SVGFromText>, "text">;
       export default function ${name}(props: ${name}Props) {
         return <SVGFromText {...props} text={\`${svg}\`} />
       }
-    `);
+    `;
     writeFile(`src/${name}.tsx`, code);
   }
   writeFile(
     "src/index.tsx",
-    format(
-      icons.map((icon) => `export * from "./${getName(icon)}.js";`).join("\n")
-    )
+    icons.map((icon) => `export * from "./${getName(icon)}.js";`).join("\n"),
   );
 }
 
 function getName(file: string): string {
   const name = file.slice(0, -4);
-  return (
-    name[0].toUpperCase() +
-    name.slice(1).replace(/-./g, (x) => x[1].toUpperCase())
-  );
+  return name[0].toUpperCase() + name.slice(1).replace(/-./g, (x) => x[1].toUpperCase());
 }
 
 main();
