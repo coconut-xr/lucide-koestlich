@@ -14,8 +14,9 @@ async function main() {
       import { SVGFromText } from "@coconut-xr/koestlich";
       import React, { ComponentPropsWithoutRef } from "react"; 
       export type ${name}Props = Omit<ComponentPropsWithoutRef<typeof SVGFromText>, "text">;
+      const text = \`${svg}\`;
       export function ${name}(props: ${name}Props) {
-        return <SVGFromText {...props} text={\`${svg}\`} />
+        return <SVGFromText {...props} text={text} />
       }
     `;
     writeFile(`src/${name}.tsx`, code);
